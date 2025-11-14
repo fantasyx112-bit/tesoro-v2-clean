@@ -1,0 +1,13 @@
+{
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/admin": "pages/admin.html",
+  "/admin/movimientos": "pages/admin/movimientos.html",
+  "/api/admin/movimientos": "pages/api/admin/movimientos.js",
+  "/api/admin/users": "pages/api/admin/users.js",
+  "/auth/callback": "pages/auth/callback.html",
+  "/login": "pages/login.html",
+  "/404": "pages/404.html"
+}
